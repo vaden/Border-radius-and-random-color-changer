@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(140, 201, 201);
+}
+
+#square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(116, 175, 116);
+  border: 2px solid black;
+}
